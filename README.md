@@ -1,45 +1,45 @@
-<!-- HEADER TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Faib+%F0%9F%91%8B;Software+Architect+%26+Quant+Developer;Building+Trading+Tech+%26+Full-Stack+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z0c3B4c2R5a3B4c2R5a3B4c2R5a3B4c2R5a3B4c2R5/LmNwrBhejkK9EFP504/giphy.gif" width="160" alt="pixel cat" />
+  
+  <h3>hai, aku faib 🐾</h3>
+  <p>
+    <i>mahasiwa informatika yang lebih sering ngobrol sama terminal daripada manusia.</i>
+  </p>
+
+  <p>
+    <a href="https://instagram.com/madebyfaib">
+      <img src="https://img.shields.io/badge/ig-madebyfaib-ffb7c5?style=flat-square&labelColor=24292e" alt="instagram" />
+    </a>
+    <a href="https://github.com/FAIB-Creat">
+      <img src="https://img.shields.io/badge/gh-FAIB--Creat-c4b5fd?style=flat-square&labelColor=24292e" alt="github" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://instagram.com/madebyfaib" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@madebyfaib-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/FAIB-Creat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FAIB--Creat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<br/>
+
+### catatan kecil
+
+sehari-hari biasanya ngulik kode buat sistem *auto-trading*, bikin aplikasi *mobile*, atau sekadar eksperimen web iseng di bawah nama **FAIB Creat**. 
+
+kalau lagi nggak pusing ngurusin *error*, biasanya lagi nyari kopi susu atau mie pedas terdekat.
+
+<br/>
+
+### alat tempur sehari-hari
+
+<p>
+  <code>python</code> · <code>flutter</code> · <code>mql5</code> · <code>javascript</code> · <code>react</code> · <code>fastapi</code> · <code>sqlite</code>
 </p>
 
----
-
-### 🚀 About Me
-
-Informatics Student & Developer behind **FAIB Creat**. Passionate about building automated trading systems, cross-platform mobile apps, and modern web applications.
-
-- 🔭 **Currently working on:** Algorithmic Trading Systems (MQL5 & Python) & Full-Stack Web Apps
-- 🛠️ **Core Focus:** Quant Development, Backend APIs, Mobile & Web Development
-- ⚡ **Tech Interests:** FinTech, Automation Bots, & Cloud Deployment
-
----
-
-### 💻 Tech Stack & Tools
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,flutter,dart,js,react,html,css,fastapi,sqlite,firebase,git,vercel,vscode&perline=7" alt="Tech Stack" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIB-Creat&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&title_color=ffb7c5&text_color=c9d1d9&bg_color=0d1117" alt="bahasa" />
 </div>
 
----
-
----
-
----
-
-### 😂 Random Dev Meme
+<br/>
 
 <div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="450" alt="Random Dev Meme" />
+  <sub><i>"kalau kodenya udah jalan, jangan disentuh lagi."</i></sub>
 </div>
