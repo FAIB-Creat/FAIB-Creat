@@ -34,15 +34,12 @@ Informatics Student & Developer behind **FAIB Creat**. Passionate about building
 
 ---
 
-### 📊 GitHub Analytics
+---
+
+### ☕ Current Mood
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=FAIB-Creat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIB-Creat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIB-Creat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding Cat" />
+  <br/>
+  <sub><i>"Works on my machine... probably."</i></sub>
 </div>
