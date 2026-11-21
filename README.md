@@ -1,45 +1,55 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z0c3B4c2R5a3B4c2R5a3B4c2R5a3B4c2R5a3B4c2R5/LmNwrBhejkK9EFP504/giphy.gif" width="160" alt="pixel cat" />
-  
-  <h3>hai, aku faib 🐾</h3>
-  <p>
-    <i>mahasiwa informatika yang lebih sering ngobrol sama terminal daripada manusia.</i>
-  </p>
+<!-- HEADER TEKS -->
+<h1 align="center">Heyyy! I'm Faib 👋</h1>
 
-  <p>
-    <a href="https://instagram.com/madebyfaib">
-      <img src="https://img.shields.io/badge/ig-madebyfaib-ffb7c5?style=flat-square&labelColor=24292e" alt="instagram" />
-    </a>
-    <a href="https://github.com/FAIB-Creat">
-      <img src="https://img.shields.io/badge/gh-FAIB--Creat-c4b5fd?style=flat-square&labelColor=24292e" alt="github" />
-    </a>
-  </p>
+<!-- BANNER NYAN CAT -->
+<div align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" height="140" alt="Nyan Cat" />
 </div>
 
 <br/>
 
-### catatan kecil
+<!-- ABOUT ME (2 KOLOM: TEKS KIRI + GIF KANAN) -->
+<h3>👋 About Me</h3>
 
-sehari-hari biasanya ngulik kode buat sistem *auto-trading*, bikin aplikasi *mobile*, atau sekadar eksperimen web iseng di bawah nama **FAIB Creat**. 
-
-kalau lagi nggak pusing ngurusin *error*, biasanya lagi nyari kopi susu atau mie pedas terdekat.
+<table>
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>🔭 I'm currently working on <code>Trading Systems</code> & <code>Full-Stack Web</code></li>
+        <li>🌱 I'm currently exploring <code>MQL5</code>, <code>Python</code>, and <code>Flutter</code></li>
+        <li>📍 From Indonesia 🇮🇩, building cool stuff under <b>FAIB Creat</b></li>
+        <li>⚡ Fun fact: <i>"If the code works, don't touch it."</i></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### alat tempur sehari-hari
+<!-- LANGUAGES AND TOOLS -->
+<h3>🛠️ Languages and Tools</h3>
 
-<p>
-  <code>python</code> · <code>flutter</code> · <code>mql5</code> · <code>javascript</code> · <code>react</code> · <code>fastapi</code> · <code>sqlite</code>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/>
 </p>
 
 <br/>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIB-Creat&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&title_color=ffb7c5&text_color=c9d1d9&bg_color=0d1117" alt="bahasa" />
-</div>
-
-<br/>
+<!-- MY STATISTICS -->
+<h3>📊 My Statistics</h3>
 
 <div align="center">
-  <sub><i>"kalau kodenya udah jalan, jangan disentuh lagi."</i></sub>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=FAIB-Creat&theme=radical&hide_border=false" alt="Streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIB-Creat&layout=compact&langs_count=6&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
