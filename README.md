@@ -36,10 +36,10 @@ Informatics Student & Developer behind **FAIB Creat**. Passionate about building
 
 ---
 
-### ☕ Current Mood
+---
+
+### 😂 Random Dev Meme
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding Cat" />
-  <br/>
-  <sub><i>"Works on my machine... probably."</i></sub>
+  <img src="https://random-memer.herokuapp.com/" width="450" alt="Random Dev Meme" />
 </div>
